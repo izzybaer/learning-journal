@@ -6,4 +6,4 @@ CSS is way harder than it seems. We did pair-programming which can be really gre
 \n
 Anyways, Michael was my partner and he was pretty tired and braindead today. He was very chatty and off topic which distracted me and I felt like I couldn't get a lot done. To be fair, we also chose the worst possible way to pair-program and definitely won't be making that mistake again.
 \n
-Oh and one more thing, chocolate pizza is super uncool. Not tasty. 
+Oh and one more thing, chocolate pizza is super uncool. Not tasty.
