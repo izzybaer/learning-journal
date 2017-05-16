@@ -6,4 +6,4 @@ I struggle with always feeling like I'm not getting what we're doing, and wonder
 \n  
 Unfortunately I did not get to the weekend with most of my work finished so I have a lot to do this weekend, which is partially understandable and partially annoying.
 \n  
-Oh well, Happy Weekend!
+Oh well, Happy Weekend!er
